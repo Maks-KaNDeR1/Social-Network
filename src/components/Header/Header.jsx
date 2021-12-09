@@ -3,7 +3,7 @@ import styles from './Header.module.css';
 
 const Header = () => {
     return <header className={styles.header}>
-        <img src='https://www.freelogodesign.org/Content/img/logo-ex-7.png' />
+        <img src='https://cdn.shopify.com/shopifycloud/hatchful-web/assets/67cbe9b74baf7f893488c5fc426d31eb.png' />
     </header>
 }
 
